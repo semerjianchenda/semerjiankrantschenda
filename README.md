@@ -1,7 +1,7 @@
 
 <h1 align="center">Chenda Semerjian-Krants</h1>
     <h4 align="center">Software Engineer</h4>
-     <img src="https://img.shields.io/badge/views-1500-blue"> 
+     <img src="https://img.shields.io/badge/Profile_views-1500-blue"> 
     <h5>Based in Boston MA</h5>
     <h5>Open to Full-Time roles</h5>
     <h4>About Me</h4>
