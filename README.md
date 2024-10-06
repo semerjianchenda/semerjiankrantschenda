@@ -15,9 +15,11 @@
    <h4>Socials:</h4>
    <span><a href="https://www.linkedin.com/in/chendasemerjiankrants/">Linkedin</a></span><br>
    <span><a href="https://x.com/Semerjian_Codes">Twitter</a></span>
-    <h4>Connect with me:</h4>
-    <span><a href="mailto:semerjiankrantschenda@gmail.com" >Email Me</a></span><br>
+
+   <h4>Connect with me:</h4>
+    <span><a href="mailto:semerjiankrantschenda@gmail.com">Email Me</a></span><br>
     <span><a href="https://calendly.com/semerjiankrantschenda/coffee-chat">Schedule a Meeting</a></span>
+   
     
   
    
